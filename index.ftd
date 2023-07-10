@@ -5,14 +5,16 @@ background.solid: #87CEEB
 align-content: center
 spacing.fixed.px: 20
 
--- card:  
+-- card:  Mountains
+
+Mountains are formed along fissures, cracks, or tectonic plate edges, where movement in the earth's crust causes pressure or friction
+
 
 -- card: Mountains
 
 There are three main catagories of mountains: Volcanic, Fold and Bock
-Mountains are formed along fissures, cracks, or tectonic plate edges, where movement in the earth's crust causes pressure or friction
 
--- card: Nature
+
 
 
 -- end: ftd.column
